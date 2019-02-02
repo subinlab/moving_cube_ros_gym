@@ -6,6 +6,11 @@ This is not directory to real use, just updoaded files and folder for convenienc
 
 Look communications between python scripts. And use urdf, yaml to set model and parameters.
 
+Environment
+- ROS Kinetic
+- Anaconda3
+- Gazebo7
+
 <br>
 
 <em>Reference</em>
