@@ -5,11 +5,14 @@ Moving cube example using openai gym in ros gazebo.
 This is not directory to real use, just updoaded files and folder for convenience.
 
 Look communications between python scripts. And use urdf, yaml to set model and parameters.
+<br>
 
-Environment
+<strong>Environment</strong>
 - ROS Kinetic
+- Python2.7
 - Anaconda3
 - Gazebo7
+- openai gym
 
 <br>
 
